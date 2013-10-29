@@ -185,7 +185,7 @@ public class GestionBDD {
 	  String mdp=rs.getString("mdp");
 	   System.out.println(mdp);
 	   }
-	   //return mdp;
+	   //return mdp; //gggggggggggggggggg
 	   
    }
 }
